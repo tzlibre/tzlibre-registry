@@ -4,5 +4,4 @@ This contract supports the [[https://tzlibre.github.io/whitelist.html][TzLibre w
 
 ** Deployment
 
-The contract is deployed on Ethereum Mainnet at: [[TODO:add-etherscann-link][~0x...~]]
-The contract is deployed on Ethereum Rospten at: [[https://ropsten.etherscan.io/address/0x183601c3d1b9e421cbe789843e8312de30700c6a][~0x183601C3d1B9e421CBE789843e8312De30700C6a~]]
+The contract is deployed on Ethereum Rospten at: [[https://ropsten.etherscan.io/address/0x183601c3d1b9e421cbe789843e8312de30700c6a][0x183601C3d1B9e421CBE789843e8312De30700C6a]
